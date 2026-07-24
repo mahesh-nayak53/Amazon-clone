@@ -20,5 +20,6 @@ A static clone of the Amazon homepage built using HTML and CSS. This project is 
 - CSS3
 - Google Fonts & Font Awesome (for icons)
 
+
 ---
 
